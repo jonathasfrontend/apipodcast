@@ -3,32 +3,32 @@
     "id": 1,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "https://youtu.be/ADUu2ynpats",
-        "downloadvideo": "https://youtu.be/ADUu2ynpats",
+        "video": "https://www.youtube.com/embed/jZyovNrswBs",
+        "downloadvideo": "https://www.youtube.com/embed/jZyovNrswBs",
         "data": "01/01/2019"
     },
     {
     "id": 2,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "https://youtu.be/ADUu2ynpats",
-        "downloadvideo": "https://youtu.be/ADUu2ynpats",
+        "video": "https://www.youtube.com/embed/jZyovNrswBs",
+        "downloadvideo": "https://www.youtube.com/embed/jZyovNrswBs",
         "data": "01/01/2019"
     },
     {
     "id": 3,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "https://youtu.be/ADUu2ynpats",
-        "downloadvideo": "https://youtu.be/ADUu2ynpats",
+        "video": "https://www.youtube.com/embed/jZyovNrswBs",
+        "downloadvideo": "https://www.youtube.com/embed/jZyovNrswBs",
         "data": "01/01/2019"
     },
     {
     "id": 4,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "https://youtu.be/ADUu2ynpats",
-        "downloadvideo": "https://youtu.be/ADUu2ynpats",
+        "video": "https://www.youtube.com/embed/jZyovNrswBs",
+        "downloadvideo": "https://www.youtube.com/embed/jZyovNrswBs",
         "data": "01/01/2019"
     }
 ]
