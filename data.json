@@ -3,32 +3,32 @@
     "id": 1,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "./video/video1.mp4",
-        "downloadvideo": "./video/video1.mp4",
+        "video": "https://youtu.be/ADUu2ynpats",
+        "downloadvideo": "https://youtu.be/ADUu2ynpats",
         "data": "01/01/2019"
     },
     {
     "id": 2,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "./video/video1.mp4",
-        "downloadvideo": "./video/video1.mp4",
+        "video": "https://youtu.be/ADUu2ynpats",
+        "downloadvideo": "https://youtu.be/ADUu2ynpats",
         "data": "01/01/2019"
     },
     {
     "id": 3,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "./video/video1.mp4",
-        "downloadvideo": "./video/video1.mp4",
+        "video": "https://youtu.be/ADUu2ynpats",
+        "downloadvideo": "https://youtu.be/ADUu2ynpats",
         "data": "01/01/2019"
     },
     {
     "id": 4,
         "titulo": "Titulo do video",
         "autor": "Autor",
-        "video": "./video/video1.mp4",
-        "downloadvideo": "./video/video1.mp4",
+        "video": "https://youtu.be/ADUu2ynpats",
+        "downloadvideo": "https://youtu.be/ADUu2ynpats",
         "data": "01/01/2019"
     }
 ]
