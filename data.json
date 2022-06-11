@@ -2,77 +2,77 @@
     {
     "id": 1,
         "titulo": "Titulo do video 1",
-        "autor": "Autor", 
+        "autor": "Deep Podcast", 
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 2,
         "titulo": "Titulo do video 2",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 3,
         "titulo": "Titulo do video 3",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 4,
         "titulo": "Titulo do video 4",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 5,
         "titulo": "Titulo do video 5",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 6,
         "titulo": "Titulo do video 6",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 7,
         "titulo": "Titulo do video 7",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 8,
         "titulo": "Titulo do video 8",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 9,
         "titulo": "Titulo do video 9",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 10,
         "titulo": "Titulo do video 10",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     },
     {
     "id": 11,
         "titulo": "Titulo do video 11",
-        "autor": "Autor",
+        "autor": "Deep Podcast",
         "video": "https://raw.githubusercontent.com/jonathasfrontend/apipodcast/main/img/img1.png",
         "data": "01 Jun"
     }
