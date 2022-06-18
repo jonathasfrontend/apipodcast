@@ -16,15 +16,6 @@ app.get("/appsitenspodcast/:id", function(req, res) {
     if (!client) return res.status(204).json();
     res.json(client);
 });
-app.get("/appsitenspodcast/:filmesseries", function(req, res) {
-    const { id } = req.params;
-    const client = data.find(cli => cli.id == id);
-  
-    if (!client) return res.status(204).json();
-  
-    res.json(client);
-});
-
 
 app.listen(process.env.PORT || 3000, function(){
     console.log("servidor rodando");
